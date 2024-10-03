@@ -1,0 +1,8 @@
+Resenha: O que é SEO
+
+Melhorando o desempenho do site para mecanismos de busca. Conjunto de técnicas para melhorar o seu site.
+
+- Adicionar Títulos que condizem com o conteúdo da página (50 a 60 letras);
+- meta (descriçao), colocar a descrição da página;
+- semântica na criação da página;
+- Schema.org (comunidade), buscam a melhoria do meu site.

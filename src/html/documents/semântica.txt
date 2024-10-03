@@ -1,0 +1,13 @@
+HTML - Semântica
+
+Estudo das palavras e o significado das palavras. O HTML tem que fazer sentido para quem estiver lendo e aquilo que ele tiver proposto a fazer. Paramos de estruturar a nossa pagina usando apenas "div" e passamos a utilizar as variações semântica de cada parte da pagina:
+
+- Header;
+- Aside;
+- Nav;
+- Footer;
+- Main;
+- Section;
+- Article.
+
+O HTML passa a ser usado para estruturação onde temos que mostrar o sentido devido em cada parte do nosso site. 

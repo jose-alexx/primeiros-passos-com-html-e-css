@@ -1,0 +1,16 @@
+Acessibilidade
+
+
+Site adaptável para pessoas com deficiência alguma limitação. O site deve conseguir receber esses usuários.
+
+W3c - Padrões para questões de acessibilidades.
+
+https://www.w3.org/WAI/standards-guidelines/
+
+DOM - Document Object Model.
+
+NVDA - Leitor de tela.
+
+Quando criamos um arquivo HTML é criado uma árvore de acessibilidade que será lida pelo leito de tela.
+
+Area (Accessible Rich Internet Applications)- Atributos que mudam o comportamento da árvores de acessibilidades. 

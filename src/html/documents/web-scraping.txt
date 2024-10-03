@@ -1,0 +1,11 @@
+Web Scraping
+
+São aplicações(robôs) que podem entrar dentro do site, ler o html e grava as informações em algum lugar (banco de dados)
+
+GoogleBot - Visita o seu site e indexa, tornando ele linkavel com as suas outras paginas. Tem que ser o mais semântica possível para ser mais indexado.
+
+
+Ação de uma aplicação entrar no site, extrair informação que pode ser usada para algum outro fim.
+
+Não é uma ferramenta ilegal, mas deve ser usada de forma ética.
+
