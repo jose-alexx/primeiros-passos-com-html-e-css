@@ -1,0 +1,12 @@
+O que é CSS
+
+CSS(Cascading Style Sheets - Essa folha de estilos é muito usada para adicionar estilos ao documento WEB(HTML), descreve como os elementos vão ser exibidos e suas propriedades de estilo.
+
+- Desenvolvido pela W3C em 1995;
+- Versão CSS3;
+- Podemos controlar as propriedades de estilos de varias páginas HTML em uma única folha de estilos(CSS);
+
+O CSS é uma linguagem de estilos(não faz cálculos, não consegue mudar informações contidas em variáveis, não consegue tomar decisões ou mudar o fluxo do sistema).
+
+- Declara como os elementos serão apresentados na tela.
+ 

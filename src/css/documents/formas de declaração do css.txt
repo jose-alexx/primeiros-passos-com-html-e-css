@@ -1,0 +1,36 @@
+Propriedade e valores
+  
+  A propriedade e uma característica dos elementos HTML (cor de fundo, largura, espaçamento...), já o valor é o resultado de uma propriedade, é uma função daquela propriedade.
+
+Propriedade:valor;(background-color:red;) - O ";" define o fim da declaração do estilo e os ":" definem a separação da propriedade do seu valor.
+
+Formas de declarar o CSS 
+
+CSS Inline - Adicionamos os estilos no HTML utilizando o atributo style dentro das tags HTML.
+
+ - Não é muito recomendada para uso, póis teria que alterar todos os elementos;
+ - Mesmo não sendo usado com frequência essa forma pode se tornear usual quando precisamos sobrescrever algum estilo(possui maior prioridade);
+ - Teste de alteração rápida, antes de definir em arquivo separado;
+ - Por já vir embutido no HTML não é preciso fazer solicitações http para usa-lo.
+
+CSS Interno - O código CSS é colocado dentro da tag <head> utilizando seletores para referenciar os elementos que queremos estilizar adicionando outra tag, <style> e o conteúdo dentro.
+
+ - Deixa o código mais genérico;
+ - Menos prioridade que o CSS Inline;
+ - O código CSS só fica disponível na página que estiver(específica), e os estilos serão baixados e inseridos na página toda vez que entra.
+ - Aumenta a velocidade da página;
+ - Não é possível usar o CSS Interno de uma página em outra;
+
+CSS Externo - Criamos um arquivo CSS e o chamamos dentro da tag <head> do HTML.
+
+ - Velocidade de carregamento rápida;
+ - Pode usar o mesmo arquivo css em varias páginas;
+ - 
+
+
+ 
+
+
+
+
+  

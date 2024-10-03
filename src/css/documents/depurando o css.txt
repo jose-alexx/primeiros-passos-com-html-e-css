@@ -1,0 +1,16 @@
+Depurando o CSS
+
+
+Depuração(Debug) examina os elementos HTML e CSS buscando identificar problemas no código-fonte.
+
+O Dev Tools - Permite que vejamos como os nossos elementos estão se comportando(tanho, propriedades css...) em tela.
+
+ - F12;
+ - Podemos examinar qualquer site vemos;
+
+ 
+
+
+
+
+  

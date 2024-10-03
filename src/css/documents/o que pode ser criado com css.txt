@@ -1,0 +1,18 @@
+O que Pode Ser Criado com CSS?
+
+- Layouts e estilização de páginas web;
+   Com o CSS podemos personalizar o site oferecendo uma boa experiência para os usuários. Entregando uma boa identidade Visual.
+     - Netfliz;
+     - Aplle.
+
+- Animações;
+    Podemos animar elementos animados apenas com o HTML e CSS.
+
+- Formas geométricas e desenhos;
+    Podemos criar e desenhar utilizando o HTML e CSS. Criar formas geométricas para podemos desenhas e animar.
+ 
+- Filtros;
+    Podemos aplicar efeitos gráficos para renderizar imagens. 
+
+- Contadores.
+    Variáveis que podem ser incrementadas pelo CSS. Consegue contar os elementos presente ajustando a numeração.

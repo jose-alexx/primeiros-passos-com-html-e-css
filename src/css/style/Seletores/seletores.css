@@ -1,0 +1,35 @@
+h1 {
+    background-color: rgb(17, 0, 255);
+color: rgb(237, 16, 16);
+}
+
+div {
+    background-color: lightblue; /* Quando quemos que todo o conteudo dentro de um elemento tenha aplicado essa propiedade podemos aplicar no elemento pai(aquele que engloba todos os elementos HTML */
+    color: blue;
+}
+
+li {
+    background-color: blueviolet; /* Elemento filho sofre alteração apenas nele e naqueles que engloca, mas os seus irmãos não sofrem alteração */
+}
+
+#texto-boas-vindas {
+    background-color: aqua;
+    color: brown;
+}
+
+#esplicacao-seletores {
+    background-color: beige;
+    color: black;
+}
+
+.seletores-mais-comuns {
+    color: red;
+}
+
+.texto-maiusculo {
+    text-transform: uppercase; /* deixa o texto todo em maiusculo */
+}
+
+* {
+    font-weight: bold; /* Coisas comuns para todos os elementos e o reset css */
+}
