@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkbox e Radio</title>
+</head>
+<body>
+    <form method="get">
+        <h1>Lanchonete do Alex</h1>
+        <p>Escolha o seu principal:</p>
+        <input type="checkbox" disabled name="principal[]" value="lazanha"> + Lazanha <br>
+        <input type="checkbox" name="principal[]" value="anburguer"> + Anburguer <br>
+        <input type="checkbox" name="principal[]" value="pizza"> + Pizza <br>
+        <input type="checkbox" name="principal[]" value="sorvete"> + Sorvete <br>
+        <p>Molho da casa?</p> <br>
+        <input type="radio" name="molho" value="sim"> Sim <br>
+        <input type="radio" name="molho" value="nao"> Não <br>
+        <p>Escolha o seu opcional do dia:</p> <br>
+        <input type="radio" name="opcional" value="pao"> Pão <br>
+        <input type="radio" name="opcional" value="bolhacha"> Bolhacha <br>
+        <input type="radio" name="opcional" value="fruta"> Fruta <br>
+        <input type="radio" name="opcional" value="doce"> Doce <br>
+        <button type="submit">Enviar pedido</button>
+    </form>
+</body>
+</html>
