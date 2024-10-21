@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Agrupamento de seletores</title>
+
+    <style>
+      /**
+      h1, p, div {
+        background-color: black;
+        color: aqua;
+      }
+      */
+
+      /**
+      .texto, h1, #link-referencia {
+        background-color: blue;
+        color: aqua;
+      }
+
+      h1, [id^="botao"] {
+        background-color: black;
+        color: aliceblue;
+        padding: 20px;
+        box-sizing: border-box;
+        font-style: italic;
+      }
+      */
+
+      p.texto {
+         
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Agrupamento de seletores</h1>
+    <p class="texto">
+      Podemos aplicar as mesmas regras CSS para vários seletores diferentes. Para isso podemos separar os seletores utilizando uma virgula(,)</p>
+    <div class="texto">Assim, não precisamos ficar copiando e colando o mesmo código para todos, nós podemos fazer um só bloco de CSS e reutilizar as mesmas reegras!</div>
+
+    <br><br>
+    <a id="link-referencia" href="#">Clique para ver a documentação</a>
+    <br><br>
+    <a id="link-suporte" href="#">Clique para entrar em contato</a>
+    <br><br>
+    <a id="botao-voltar" href="#">Voltar</a>
+    <br><br>
+    <button id="botao-fechar">Fechar página</button>
+  </body>
+</html>
